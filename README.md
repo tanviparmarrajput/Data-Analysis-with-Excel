@@ -73,5 +73,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or feedback, please reach out:
 
-Tanvi Parmar: parmarrajputtanvi@gmail.com
-GitHub: tanviparmarrajput
+## Contact
+
+For questions or feedback, please reach out:
+
+- **Tanvi Parmar**: [parmarrajputtanvi@gmail.com](mailto:parmarrajputtanvi@gmail.com)
+- **GitHub**: [tanviparmarrajput](https://github.com/tanviparmarrajput)
